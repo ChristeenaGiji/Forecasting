@@ -1,4 +1,4 @@
-# Forecasting Prophet
+# Prophet Forecasting Model 
 
 This project aims to forecast monthly milk production for the next year (1976) using historical data and the Prophet forecasting model. The analysis involves cleaning the dataset, fitting the Prophet model with yearly seasonality, creating future dates for predictions, and evaluating the model's performance through cross-validation.
 
